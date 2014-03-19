@@ -4,14 +4,14 @@
     
     <groupId>com.test</groupId>
 	<artifactId>test-webapp</artifactId>
-    <version>{$VERSION}</version>
+    <version>1.0.20</version>
 	
 	<packaging>war</packaging>
 	<dependencies>
 		<dependency>
 			<groupId>com.test</groupId>
 			<artifactId>bptest-alfresco</artifactId>
-			<version>1.0.21</version>
+			<version>1.0.51</version>
 		</dependency>
 	</dependencies>
 </project>
